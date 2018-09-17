@@ -22,6 +22,6 @@ function iLoveTheBeatles(number){
   do {
     fan.push("I love the Beatles!");
     i++;
-    return fan;
   } while(i<15);
+  return fan;
 }

@@ -18,7 +18,7 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(number){
   var fan=[];
-  var i=number;
+  var i=0;
   do {
     fan.push("I love the Beatles!");
     i++;

@@ -20,7 +20,7 @@ function iLoveTheBeatles(number){
   var fan=[];
   var i=number;
   do {
-    fan.push("I Love the Beatles");
+    fan.push("I Love the Beatles!");
     i++;
     return fan;
   } while(i<15);

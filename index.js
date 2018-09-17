@@ -20,4 +20,6 @@ function iLoveTheBeatles(number){
   var fan=[];
   var i=0;
   do {
+    fan.push("I Love the Beatles")
+  }
 }
